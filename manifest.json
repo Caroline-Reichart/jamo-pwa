@@ -1,15 +1,16 @@
 {
-    "name": "Jamo's Pizza",
-    "short_name": "Jamo's Pizza",
-    "icons": [
-      {
-        "src": "jamologo_465x320.png",
-        "sizes": "48x48",
-        "type": "assets/jamologo_465x320"
-      }
-    ],
-    "background_color": "#2196f3",
-    "display": "standalone",
-    "scope": "/",
-    "start_url": "/"
-  }
+  "name": "Jamo's Pizza",
+  "short_name": "JamoPizza",
+  "description": "Bestelle deine Lieblingspizza einfach und schnell bei Jamo's Pizza.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7ae582",
+  "icons": [
+    {
+      "src": "/assets/jamologo_465x320.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
