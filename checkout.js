@@ -47,7 +47,7 @@ function calculateTotalAmount() {
 function generateOrderMessage(name, address) {
     let message = `Neue Bestellung bei Jamo's Pizza:\n`;
     cart.forEach(item => {
-        message += `- ${item.name} (${item.size}) x ${item.quantity} - ${item.price.toFixed(2)} €\n`;
+        message += `- ${item.name} (${item.size}) x ${item.quantity}   ${item.price.toFixed(2)} €\n`;
     });
     message += `\nGesamt: ${calculateTotalAmount().toFixed(2)} €`;
     message += `\n\nKundendaten:\nName: ${name}\nAdresse: ${address}`;
