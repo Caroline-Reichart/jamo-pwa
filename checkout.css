@@ -1,0 +1,40 @@
+/* Checkout-Container */
+.checkout-container {
+    background-color: rgba(255, 255, 255, 0.7);
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Kundendaten-Formular */
+#customerForm {
+    margin: 20px 0;
+}
+
+#customerForm input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Buttons für die Zahlungsmethoden */
+.checkout-container button {
+    background-color: #7ae582;
+    color: white;
+    font-size: 16px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.checkout-container button:hover {
+    background-color: #66cc73;
+}

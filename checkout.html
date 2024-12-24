@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Jamo's Pizza</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="checkout.css">
+    <link rel="stylesheet" href="cart.css">
+</head>
+<body>
+    <header class="navbar">
+       <h1>Checkout</h1> 
+       <a href="index.html" class="linkSpeisekarte">Zurück zur Speisekarte</a>
+    </header>
+    <div class="checkout-container">
+        <h2 class="cath2">Deine Bestellung</h2>
+        <div id="checkoutItems"></div>
+        <div id="checkoutTotal" class="cart-total"></div>
+
+      <!--   <h3>Kundendaten</h3> -->
+        <form id="customerForm">
+            <input type="text" id="customerName" placeholder="Dein Name" required>
+            <input type="text" id="customerAddress" placeholder="Deine Adresse" required>
+        </form>
+
+        <!-- <h3>Zahlungsmethode wählen</h3> --> 
+       <div>
+            <button onclick="payWithCash()">Bestellung abschließen</button> 
+            <!-- <button onclick="payWithPayPal()">PayPal</button>   --> 
+      </div>
+    </div>
+
+    <script src="checkout.js"></script>
+</body>
+</html> 

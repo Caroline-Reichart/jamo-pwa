@@ -1,0 +1,99 @@
+{
+    "categories": [
+      {
+        "name": "Pizza",
+        "items": [
+          { 
+            "name": "Morino Pizza", 
+            "allergene": "2,3,4,A,F,I,K,L",
+            "Zutaten": "mit Schinken, Spinat, Brokkoli & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Milad Spezial", 
+            "allergene": "1,2,3,4,A,F,I,K,L",
+            "Zutaten": "mit Dönerfleisch, Brokkoli Paprika, Pepperoni,\nChampignons, Zwiebeln, Knoblauch & scharfe Soße",
+            "sizes": [
+              { "size": "30 cm", "price": 10.00 },
+              { "size": "60 x 40 cm", "price": 33.00 }
+            ]
+          },
+          { 
+            "name": "Margarita", 
+            "allergene": "2,3,4,A,F,I,L",
+            "Zutaten": "mit Schinken, Spinat, Brokkoli & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Salami", 
+            "allergene": "1,2,3,4,A,F,I,K,L",
+            "Zutaten": "mit Salami & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Schinken", 
+            "allergene": "1,2,3,4,6,A,F,I,L",
+            "Zutaten": "mit Schinken & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Hawaii", 
+            "allergene": "1,2,3,4,6,A,F,I,L",
+            "Zutaten": "mit Ananas, Schinken & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Champignons", 
+            "allergene": "2,3,4,A,F,I,L",
+            "Zutaten": "mit Champignon & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Thunfisch", 
+            "allergene": "2,3,4,A,B,F,I,L",
+            "Zutaten": "mit Thunfisch & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Peperoni", 
+            "allergene": "2,3,4,A,F,I,L",
+            "Zutaten": "mit Peperoni, Zwiebeln Knoblauch & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          },
+          { 
+            "name": "Vegetarisch", 
+            "allergene": "2,3,4,A,F,I,L",
+            "Zutaten": "mit Zwiebeln, Tomaten, Champignons, Paprika, Peperoni & Käse",
+            "sizes": [
+              { "size": "30 cm", "price": 9.00 },
+              { "size": "60 x 40 cm", "price": 28.00 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
