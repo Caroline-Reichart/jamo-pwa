@@ -2,7 +2,7 @@ const CACHE_NAME = "jamos-pizza-cache-v1";
 const CACHE_ASSETS = [
     "/index.html",
     "/checkout.html",
-    "/styles.css",
+    "/style.css",
     "/checkout.css",
     "/cart.css",
     "/checkout.js",
