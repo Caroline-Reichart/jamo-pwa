@@ -2,18 +2,18 @@
   "name": "Jamo's Pizza",
   "short_name": "JamoPizza",
   "description": "Bestelle deine Lieblingspizza einfach und schnell bei Jamo's Pizza.",
-  "start_url": "https://caroline-reichart.github.io/jamo-pwa",
+  "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#7ae582",
   "icons": [
   {
-    "src": "./assets/icons/icon-192x192.png",
+    "src": "./assets/icons/Pizza.png",
     "sizes": "192x192",
     "type": "image/png"
   },
   {
-    "src": "./assets/icons/icon-512x512.png",
+    "src": "./assets/icons/Pizza.png",
     "sizes": "512x512",
     "type": "image/png"
   }
